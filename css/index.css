@@ -1,0 +1,155 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+td {
+    line-height: 16pt;
+    font-size: 10pt;
+    font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+ }
+ a:link {
+    text-decoration: none;
+    color: #000000;
+ }
+ textarea {
+    font-size: 8pt;
+    font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+    border: 1px solid #999999;
+    padding: 5px;
+ }
+ .liu1{
+  width: 998px;  
+  height: 370px;
+  border: 1px solid #efefef;
+  background-color: #f3f3f3;
+ }
+ .liu2{
+  width: 140px;
+  height: 368px;
+  float: left;
+  background-color:#f0fff0;
+ }
+ .duiqi{
+  width: 200px;
+  height: 13px;
+  float: right;
+  margin-top: 7px;
+ }
+ .liu3{
+  width: 100px;
+  height: 100px;
+  margin-top: 70px;
+  margin-left:20px;
+ }
+ .suibian{
+  position: relative;
+  right:10px;
+ }
+ .liu4{
+  width: 850px;
+  height: 278px;
+  float: right;
+ }
+ .liu44{
+  width: 580px;
+  height: 30px;
+  margin-left: 10px;
+ }
+ .liu5{
+
+ }
+ .form1 {
+    margin: 0px;
+    padding-left: 150px;
+    padding-top: 20px;
+ }
+ .textdrow {
+    color:#666666;
+    filter: DropShadow(Color=white, OffX=1, OffY=1, Positive=1);
+
+ }
+.auto_{
+    width: 1000px;
+    height: 250px;
+    margin-top: 20px;
+ }
+li{
+  list-style: none;
+}
+.container{
+  margin: auto;
+  width: 1513px;
+  height: 1500px;
+  background-color: #3F5D79;
+}
+.header{
+  float: left;
+  width: 1510px;
+  height: 50px;
+  background-color: white;
+  margin-top: 30px;
+}
+.logo{
+  float: left;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.main{
+  float: left;
+  width: 1000px;
+  margin-left: 250px;
+  height: 1150px;
+  background-color: white;
+  margin-top: 70px;
+  border-radius: 8px;
+}
+.header ul{
+  width: 800px;
+  height: 50px;
+  margin-left: 950px;
+}
+.header ul li{
+  float: left;
+  font-size: 20px;
+  color: black;
+  margin-left: 40px;
+  line-height: 50px;
+}
+.header ul li a{
+  text-decoration: none;
+  color: black;
+}
+.header ul li a:hover{
+  color: #9DA5B4;
+}
+.forgot{
+  color:rgba(0,0,0,0.4);
+  float: left;
+  font-size: 10px;
+  margin-left: -150px;
+  margin-top: 182px;
+}
+.forgot:hover{
+  color: #20374F;
+  text-decoration: underline;
+}
+.fooster{
+  width: 900px;
+  height: 20px;
+  float: left;
+  margin-left: 315px;
+  margin-top: 30px;
+}
+.fooster li{
+  float: left;
+  font-size: 15px;
+  color:#ECECEC;
+  margin-left: 15px;
+}
+.fooster li a{
+  color:#ECECEC;
+  text-decoration: underline;
+}
+.fooster li a:hover{
+  color:rgba(0,0,0,0.4);
+}

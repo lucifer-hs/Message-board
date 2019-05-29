@@ -1,0 +1,204 @@
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+	margin: auto;
+	width: 1520px;
+	height: 900px;
+	background-color: #C6C6C6;
+}
+.container{
+  width: 600px;
+  height:500px;
+  float: left;
+  margin-left: 450px;
+  margin-top: 100px;
+  background-color: #3F5D79;
+  border: 5px solid white;
+}
+.logo{
+	width: 200px;
+	height: 100px;
+  float: left;
+}
+.logo1{
+  float: left;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.meau{
+  float: left;
+  margin-top: 20px;
+  margin-left: 100px;
+  width: 200px;
+  height: 30px;
+}
+.meau li{
+float: left;
+margin-left: 15px;
+}
+.meau li a{
+  font-size: 10px;
+  color: white;
+}
+.meau li a:hover{
+  color: #1D3752;
+}
+.search-box{
+  float: left;
+  width: 110px;
+  height: 20px;
+  background-color: white;
+  margin-top: 24px;
+  margin-left: -33px;
+  border-radius: 5px;
+}
+.button{
+  float: left;
+  height: 17px;
+  width: 17px;
+  margin-left: 3px;
+  margin-top: 2px;
+}
+.input-box{
+  width: 80px;
+  height: 17px;
+  border-color: white;
+  float: left;
+  color:rgba(0,0,0,0.6);
+}
+.navbar{
+  float: left;
+  width: 550px;
+  height: 400px;
+  background-color: white;
+  border-radius: 6px;
+  margin-left: 25px;
+  margin-top: -35px;
+}
+.navbar span{
+  float: left;
+  font-size: 25px;
+  color: #16304B;
+  margin-left: 25px;
+  margin-top: 10px;
+}
+.E-mailadress{
+  float: left;
+  width: 400px;
+  height: 20px;
+  margin-top: 37px;
+  margin-left: 30px;
+  font-size: 14px;
+}
+.adress{
+  width: 350px;
+  height: 40px;
+  border: 3px solid #ECECEC;
+  border-radius: 5px;
+  margin-top: 10px;
+  color:rgba(0,0,0,0.7);
+  font-size: 20px;
+}
+.Passwords{
+  float: left;
+  width: 400px;
+  height: 20px;
+  margin-top: 37px;
+  font-size: 14px;
+  margin-left: 30px;
+  margin-top: 70px
+}
+.pass{
+  width: 350px;
+  height: 40px;
+  border: 3px solid #ECECEC;
+  border-radius: 5px;
+  margin-top: 10px;
+  color:rgba(0,0,0,0.4);
+  font-size: 20px;
+}
+.log{
+  float: left;
+  width: 60px;
+  height: 30px;
+  margin-top: 170px;
+  margin-left: -400px;
+  background-color: #96C500;
+  color: white;
+  border-color: #96C500;
+  border-radius: 4px;
+}
+.forgot{
+  color:rgba(0,0,0,0.4);
+  float: left;
+  font-size: 10px;
+  margin-left: -150px;
+  margin-top: 182px;
+}
+.forgot:hover{
+  color: #20374F;
+  text-decoration: underline;
+}
+.fooster{
+  width: 500px;
+  height: 20px;
+  float: left;
+  margin-left: 25px;
+  margin-top: 13px;
+}
+.fooster li{
+  float: left;
+  font-size: 9px;
+  color:#ECECEC;
+  margin-left: 15px;
+}
+.fooster li a{
+  color:#ECECEC;
+  text-decoration: underline;
+}
+.fooster li a:hover{
+  color:rgba(0,0,0,0.4);
+}
+fieldset{
+  float: left;
+  border-color: white;
+  margin-top: -20px;
+  border:0;
+}
+.yzm1{
+  float: left;
+  margin-top: 100px;
+}
+.yzm{
+  float: left;
+  width: 400px;
+  height: 20px;
+  margin-top: 37px;
+  font-size: 14px;
+  margin-left: 30px;
+  margin-top: 70px
+}
+.yzm2{
+  width: 100px;
+  height: 40px;
+  border: 3px solid #ECECEC;
+  border-radius: 5px;
+  margin-top: 10px;
+  color:rgba(0,0,0,0.4);
+  font-size: 20px;
+}
+.yzmimg{
+  width: 100px;
+  height: 40px;
+  position: relative;
+  top:15px;
+  border: 3px solid #ECECEC;
+}
